@@ -13,7 +13,11 @@ body {
   color: initial;
   font-size:inherit;
 }
-
+.code {
+  background: inherit;
+  color: initial;
+  font-size:inherit;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
